@@ -8,6 +8,8 @@ CREATE MATERIALIZED VIEW customer_search AS (
     FROM customer_sales
 );
 
+sqlda=# SELECT * FROM customer_search LIMIT 1;
+
 -- Create the GIN index on the view
 
 CREATE INDEX customer_search_gin_idx ON customer_search USING GIN(search_vector);
