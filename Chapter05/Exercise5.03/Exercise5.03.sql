@@ -22,7 +22,7 @@ CREATE TEMP TABLE top_email_sequences AS (
 SELECT email_sequence FROM top_email_sequences;
 
 -- Lastly, we want to check which of these arrays is a superset of the other
--- arrays. To do this, it’s helpful to number our rows:
+-- arrays. To do this, it's helpful to number our rows:
 
 ALTER TABLE top_email_sequences ADD COLUMN id SERIAL PRIMARY KEY;
 
