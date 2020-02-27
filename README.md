@@ -13,7 +13,7 @@ To get started with the project files, you'll need to:
 1. Install PostgreSQL 12 on [Windows](https://www.postgresql.org/download/windows/), [Mac](https://www.postgresql.org/download/macosx/), [Linux](https://www.postgresql.org/download/linux/)
 2. Install Anaconda on [Windows](https://www.anaconda.com/distribution/#windows), [Mac](https://www.anaconda.com/distribution/#macos), [Linux](https://www.anaconda.com/distribution/#linux)
 
-## About The Applied SQL Data Analytics Workshop Workshop
+## About The Applied SQL Data Analytics Workshop
 You already know that you want to learn data analysis with SQL, and a smarter way to learn is to learn by doing. The Applied SQL Data Analytics Workshop focuses on building up your practical skills so that you can navigate and compose custom reports like an expert data analyst. You'll learn from real examples that lead to real results.  
 
 ## What you will learn
