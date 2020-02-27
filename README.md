@@ -8,6 +8,7 @@
 This is the repository for The Applied SQL Data Analytics Workshop, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## Requirements and Setup
+<img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/The%20Applied%20SQL%20Data%20Analytics%20Workshop.png" alt="The Data Science Workshop" height="270px" width="220px" align="right" this.target="_blank">
 
 To get started with the project files, you'll need to:
 1. Install PostgreSQL 12 on [Windows](https://www.postgresql.org/download/windows/), [Mac](https://www.postgresql.org/download/macosx/), [Linux](https://www.postgresql.org/download/linux/)
