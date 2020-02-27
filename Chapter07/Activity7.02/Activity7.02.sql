@@ -20,7 +20,7 @@ sqlda=# ALTER TABLE lemon_sales ALTER COLUMN sales_transaction_date TYPE DATE;
 
 -- Count the number of sales per day within the lemon_sales table and insert into a table called lemon_sales_count
 
-sqlda=# SELECT *, COUNT(sales_transaction_date) INTO lemon_sales_count FROM lemon_sales GROUP BY sales_transaction_date,lemon_sales.customer_id ORDER BY sales_transaction_date;
+sqlda=# SELECT *, COUNT(sales_transaction_date) INTO lemon_sales_count FROM lemon_sales GROUP BY sales_transaction_date ORDER BY sales_transaction_date;
 
 -- Calculate the cumulative sum of sales and insert the corresponding table into a new table labeled lemon_sales_sum
 
