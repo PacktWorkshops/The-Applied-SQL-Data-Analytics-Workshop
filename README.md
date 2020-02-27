@@ -2,7 +2,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/PacktWorkshops/The-Applied-SQL-Data-Analytics-Workshop.svg)](https://github.com/PacktWorkshops/The-Applied-SQL-Data-Analytics-Workshop/issues)
 [![GitHub forks](https://img.shields.io/github/forks/PacktWorkshops/The-Applied-SQL-Data-Analytics-Workshop.svg)](https://github.com/PacktWorkshops/The-Applied-SQL-Data-Analytics-Workshop/network)
 [![GitHub stars](https://img.shields.io/github/stars/PacktWorkshops/The-Applied-SQL-Data-Analytics-Workshop.svg)](https://github.com/PacktWorkshops/The-Applied-SQL-Data-Analytics-Workshop/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktWorkshops/TThe-Applied-SQL-Data-Analytics-Workshop/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktWorkshops/The-Applied-SQL-Data-Analytics-Workshop/pulls)
 [![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)](https://www.python.org/downloads/)
 
 This is the repository for The Applied SQL Data Analytics Workshop, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
