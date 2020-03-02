@@ -29,6 +29,6 @@ You already know that you want to learn data analysis with SQL, and a smarter 
 If you've found this repository useful, you might want to check out some of our other workshop titles:
 * [The Python Workshop](https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop)
 * [The Data Science Workshop](https://courses.packtpub.com/courses/data-science?utm_source=github&utm_medium=repository&utm_campaign=9781838981266&utm_term=Data%20Science&utm_content=The%20Data%20Science%20Workshop)
-* [The PHP Workshop](https://courses.packtpub.com/courses/php?utm_source=github&utm_medium=repository&utm_campaign=9781838648916&utm_term=PHP&utm_content=The%20PHP%20Workshop)
+* [The Data Visualization Workshop](https://courses.packtpub.com/courses/data-visualization?utm_source=github&utm_medium=repository&utm_campaign=9781838981488&utm_term=Data%20Visualization&utm_content=The%20Data%20Visualization%20Workshop)
 
 
