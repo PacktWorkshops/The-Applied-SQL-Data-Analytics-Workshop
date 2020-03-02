@@ -5,17 +5,17 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktWorkshops/The-Applied-SQL-Data-Analytics-Workshop/pulls)
 [![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)](https://www.python.org/downloads/)
 
-This is the repository for The Applied SQL Data Analytics Workshop, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
+This is the repository for [The Applied SQL Data Analytics Workshop](https://courses.packtpub.com/courses/the-applied-sql-data-analytics-workshop?utm_source=github&utm_medium=repository&utm_campaign=9781800203679&utm_term=Applied%20SQL%20Data%20Analytics&utm_content=The%20Applied%20SQL%20Data%20Analytics%20Workshop), published by [Packt](https://www.packtpub.com/?utm_source=github), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## Requirements and Setup
-<img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/The%20Applied%20SQL%20Data%20Analytics%20Workshop.png" alt="The Data Science Workshop" height="270px" width="220px" align="right" this.target="_blank">
+<a href="https://courses.packtpub.com/courses/the-applied-sql-data-analytics-workshop?utm_source=github&utm_medium=repository&utm_campaign=9781800203679&utm_term=Applied%20SQL%20Data%20Analytics&utm_content=The%20Applied%20SQL%20Data%20Analytics%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/The%20Applied%20SQL%20Data%20Analytics%20Workshop.png" alt="The Data Science Workshop" height="270px" width="220px" align="right" this.target="_blank"></a>
 
 To get started with the project files, you'll need to:
 1. Install PostgreSQL 12 on [Windows](https://www.postgresql.org/download/windows/), [Mac](https://www.postgresql.org/download/macosx/), [Linux](https://www.postgresql.org/download/linux/)
 2. Install Anaconda on [Windows](https://www.anaconda.com/distribution/#windows), [Mac](https://www.anaconda.com/distribution/#macos), [Linux](https://www.anaconda.com/distribution/#linux)
 
 ## About The Applied SQL Data Analytics Workshop
-You already know that you want to learn data analysis with SQL, and a smarter way to learn is to learn by doing. The Applied SQL Data Analytics Workshop focuses on building up your practical skills so that you can navigate and compose custom reports like an expert data analyst. You'll learn from real examples that lead to real results.  
+You already know that you want to learn data analysis with SQL, and a smarter way to learn is to learn by doing. [The Applied SQL Data Analytics Workshop](https://courses.packtpub.com/courses/the-applied-sql-data-analytics-workshop?utm_source=github&utm_medium=repository&utm_campaign=9781800203679&utm_term=Applied%20SQL%20Data%20Analytics&utm_content=The%20Applied%20SQL%20Data%20Analytics%20Workshop) focuses on building up your practical skills so that you can navigate and compose custom reports like an expert data analyst. You'll learn from real examples that lead to real results.  
 
 ## What you will learn
 * Experiment with data analytics using basic and advanced queries
