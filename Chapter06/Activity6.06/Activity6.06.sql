@@ -14,7 +14,7 @@ sqlda$# SELECT AVG(sales_amount) FROM sales INTO sales_avg WHERE sales_transacti
 -- Return the function variable, end the function and specify the language
 
 sqlda$# RETURN sales_avg;
-sqlda$# END; $channel_avg$
+sqlda$# END; $sales_avg$
 sqlda-# LANGUAGE PLPGSQL;
 
 -- Use the function to determine the average sales value since 2013-04-12
