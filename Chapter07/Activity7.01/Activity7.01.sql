@@ -20,7 +20,7 @@ sqlda=# SELECT *, (sum-lag)/lag AS volume INTO bat_sales_delay_vol FROM bat_sale
 
 -- Compare the first 22 values of the table bat_sales_delay_vol
 
-sqlda=# SELECT * FROM bat_sales_daily_delay_vol LIMIT 22;
+sqlda=# SELECT * FROM bat_sales_delay_vol LIMIT 22;
 
 
 
