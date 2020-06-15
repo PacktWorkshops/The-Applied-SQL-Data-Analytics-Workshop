@@ -68,5 +68,5 @@ sqlda=# SELECT *, (sum-lag)/lag AS volume INTO bat_ltd_sales_vol FROM bat_ltd_sa
 
 -- Look at the first 22 records of sales in bat_ltd_sales_vol
 
-sqlda=# SELECT * FROM bat-ltd_sales_vol LIMIT 22;
+sqlda=# SELECT * FROM bat_ltd_sales_vol LIMIT 22;
 
