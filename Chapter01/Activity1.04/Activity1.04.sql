@@ -6,6 +6,8 @@ customers
 where city='New York City'
 and state='NY');
 
+SELECT * FROM customers_nyc; 
+
 -- Delete users with postal code 10014
 
 DELETE FROM customers_nyc WHERE postal_code='10014';
@@ -18,6 +20,8 @@ ALTER TABLE customers_nyc ADD COLUMN event text;
 
 UPDATE customers_nyc
 SET event = 'thank-you party';
+
+SELECT * FROM customers_nyc; 
 
 -- Delete the customer_nyc table 
 
