@@ -26,7 +26,7 @@ ORDER BY 1)
 
 SELECT sales_transaction_date,
 CASE WHEN row_number>=30 THEN deals_moving_average ELSE NULL END
-   AS deals_moving_average_30
+AS deals_moving_average_30
 FROM moving_average_calculation_30
 WHERE sales_transaction_date>='2018-01-01'
 AND sales_transaction_date<'2019-01-01';
