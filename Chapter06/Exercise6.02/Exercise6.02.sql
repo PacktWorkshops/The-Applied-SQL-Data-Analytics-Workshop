@@ -24,7 +24,7 @@ sqlda=# EXPLAIN SELECT * FROM customers WHERE gender='M';
 
 -- Create an index called ix_gender using the gender column of customers.
 
-sqlda=# CREATE INDEX ix_state ON customers(gender);
+sqlda=# CREATE INDEX ix_gender ON customers(gender);
 
 -- Confirm the presence of the index using \d
 
