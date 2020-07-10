@@ -35,7 +35,7 @@ CREATE TABLE public.customers (
 
 
 --
--- Name: order_info; Type: TABLE; Schema: public; Owner: ben
+-- Name: order_info; Type: TABLE; Schema: public; 
 --
 
 CREATE TABLE public.order_info (
