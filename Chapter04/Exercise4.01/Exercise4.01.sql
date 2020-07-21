@@ -9,5 +9,5 @@ CREATE TEMP VIEW top_cities AS (
     ORDER BY 2 DESC
     LIMIT 10
 );
-\copy top_cities TO 'top_cities.csv' WITH CSV HEADER DELIMITER ','
+\copy (SELECT * FROM top_cities) TO 'top_cities.csv' WITH CSV HEADER DELIMITER ','
 DROP VIEW top_cities;
